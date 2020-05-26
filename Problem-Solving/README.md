@@ -24,6 +24,8 @@
 ## 최단 경로 알고리즘(Shortest Path Algorithm)
 ## 비트 마스킹(Bit Masking)
 ## 자료 구조(Data Structure)
+## 최소 신장 트리(Minimum Spanning Tree)
+> [BOJ 1197 - 최소 스패닝 트리](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/MST/N1197.md) : `MST` `Kruskal`
 
 
 
