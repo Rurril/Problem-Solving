@@ -19,9 +19,9 @@
 ## 이진 탐색(Binary Search)
 ## 탐욕법(Greedy Algorithm)
 ## 최단 경로 문제(Shortest Path)
->  [BOJ 11779 -최소비용 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N11779.java) `SP` `Dijkstra` `graph`
+>  [BOJ 11779 -최소비용 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N11779.md) `SP` `Dijkstra` `graph`
 
->  [BOJ 1504 - 특정한 최단 경로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N1504.java) `SP` `Dijkstra` 
+>  [BOJ 1504 - 특정한 최단 경로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N1504.md) `SP` `Dijkstra` 
 ## 문자열 처리
 ## 수학
 ## 분할 정복
