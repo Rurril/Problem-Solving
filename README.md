@@ -12,11 +12,13 @@
 > [BOJ 13460 - 구슬 탈출 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N13460.md) : `구현` `BFS` `완전탐색` 
 
 ## BFS, DFS
-
+> [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) `DFS` `BFS`
 ## 정렬(Sort Algorithm)
 ## 브루트 포스(Brute Force)
 ## 동적 계획법(Dynamic Programming)
 ## 이진 탐색(Binary Search)
+## 투 포인터(Two Pointers)
+> [BOJ 2467 - 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2467.md) `Two Pointers` `Binary Search`
 ## 탐욕법(Greedy Algorithm)
 ## 최단 경로 문제(Shortest Path)
 >  [BOJ 11779 -최소비용 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N11779.md) `SP` `Dijkstra` `graph`
