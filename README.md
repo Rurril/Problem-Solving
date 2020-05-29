@@ -15,9 +15,11 @@
 
 ## BFS, DFS
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
+> [BOJ 9466 - 텀 프로젝트](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `DFS` 
 ## 정렬(Sort Algorithm)
 ## 완전 탐색(Brute Force)
 ## 동적 계획법(Dynamic Programming)
+> [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : ``
 ## 이진 탐색(Binary Search)
 ## 투 포인터(Two Pointers)
 > [BOJ 2467 - 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2467.md) : `Two Pointers` `Binary Search` 
