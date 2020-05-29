@@ -37,7 +37,8 @@
 ## 자료 구조(Data Structure)
 ## 최소 신장 트리(Minimum Spanning Tree)
 > [BOJ 1197 - 최소 스패닝 트리](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/MST/N1197.md) : `MST` `Kruskal`
-
+## 세그먼트 트리(Segment Tree)
+> [BOJ 2042 - 구간 합 구하기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2042.md) : `Segment Tree` `Data Structure`
 
 
 
