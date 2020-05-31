@@ -15,14 +15,23 @@
 
 ## BFS, DFS
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
+
 > [BOJ 9466 - 텀 프로젝트](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `DFS` 
 ## 정렬(Sort Algorithm)
+> [BOJ 2056 - 작업](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2056.md) : `Topological Sort` `DP`
+
 ## 완전 탐색(Brute Force)
+
+## 퇴각 검색(Back Tracking)
+> [BOJ 2239 - 스도쿠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N2239.md) : `Back Tracking` 
+
 ## 동적 계획법(Dynamic Programming)
-> [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : ``
+> [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 ## 이진 탐색(Binary Search)
 ## 투 포인터(Two Pointers)
 > [BOJ 2467 - 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2467.md) : `Two Pointers` `Binary Search` 
+
+> [BOJ 2473 - 세 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2473.md) : `Two Pointers` `Binary Search` 
 
 > [BOJ 1806 - 부분합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N1806.md) : `Two Pointers` `Prefix Sum` `Binary Search` 
 ## 탐욕법(Greedy Algorithm)
@@ -42,6 +51,7 @@
 ## 세그먼트 트리(Segment Tree)
 > [BOJ 2042 - 구간 합 구하기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2042.md) : `Segment Tree` `Data Structure`
 
+> [BOJ 2357 - 최솟값과 최댓값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2357.md) : `Segment Tree` `Data Structure`
 
 
 ## 💌 참고 자료
