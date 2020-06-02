@@ -42,6 +42,12 @@ public class N11438_sub {
         BFS();
         setParent();
 
+//        for(int i=1; i<=N;i++){
+//            for(int j=0;j<=K;j++)System.out.print(parent[j][i] + " ");
+//            System.out.println();
+//        }
+
+
         int M = Integer.parseInt(br.readLine());
 
         while(M-- > 0){
@@ -78,12 +84,17 @@ public class N11438_sub {
         }
 
         //남은 부분은 남은 값으로 점프
+        // 같은 높이까지 위에 맞춘 뒤에, LCA 바로 아래로 점프하는 것.
         for (k = K-1; k > -1; k--) {
             if (parent[k][a] != parent[k][b]) {
+//                System.out.println(a + " " + b + "test " + k);
                 a = parent[k][a];
                 b = parent[k][b];
+//                System.out.println(a + " " + b);
             }
         }
+
+        System.out.println("END");
         return parent[0][a];
 
 

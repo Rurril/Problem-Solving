@@ -57,6 +57,11 @@
 
 > [BOJ 2357 - 최솟값과 최댓값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2357.md) : `Segment Tree` `Data Structure`
 
+## 최소 공통 조상(Lowest Common Ancestor)
+> [BOJ 11437 - LCA](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` 
+
+> [BOJ 11438 - LCA 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` `Tree` `Sparse Array`  
+
 
 ## 💌 참고 자료
 

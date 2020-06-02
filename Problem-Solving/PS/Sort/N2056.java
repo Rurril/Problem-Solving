@@ -14,7 +14,6 @@ public class N2056 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         N  = Integer.parseInt(br.readLine());
-
         links = new ArrayList[N+1];
         for(int i=1;i<=N;i++)links[i] = new ArrayList<>();
         times = new int[N+1];
