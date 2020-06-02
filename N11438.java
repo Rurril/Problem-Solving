@@ -30,7 +30,7 @@ public class N11438 {
         }
 
         BFS();
-//        DFS(1, 0);
+        setParent();
         int M = Integer.parseInt(br.readLine());
 
         for(int i=0; i<M;i++){
@@ -41,6 +41,15 @@ public class N11438 {
             bw.write(LCA(a, b) + "\n");
         }
         bw.flush();
+    }
+
+    private static void setParent(){
+
+        for(int i=1; i<MAXDEPTH; i++){
+            for(int j=1; j<=N; j++){
+                dp[j][i] = dp[dp[j][i-1]][i-1];
+            }
+        }
     }
 
     private static int LCA(int a, int b){
@@ -64,24 +73,6 @@ public class N11438 {
         return dp[0][a];
     }
 
-    private static void DFS(int node, int depth_t) {
-        if (depth[node] != -1)
-            return;
-
-        depth[node] = depth_t;
-        for (int next : list[node]) {
-            if (depth[next] != -1)
-                continue;
-            dp[0][next] = node;
-            for (int i = 1; i < MAXDEPTH; i++) {
-                if(dp[i - 1][next] == 0) break;
-                dp[i][next] = dp[i - 1][dp[i - 1][next]];
-            }
-
-            DFS(next, depth_t + 1);
-        }
-    }
-    
     private static void BFS(){
 
         Queue<Integer> q = new LinkedList<>();
@@ -93,17 +84,11 @@ public class N11438 {
             int current = q.poll();
 
             for(int next : list[current]){
-                if(depth[next] == 0){ // 방문을 아직 하지 않은 경우.
+                if(depth[next] == 0 && next != current){ // 방문을 아직 하지 않은 경우 & 부모에게로 가지 않는 경우
                     depth[next] = depth[current] + 1;
-
+                    q.add(next);
                     // depth로 Ancestor 설정
                     dp[next][0] = current;
-                    current = dp[current][0];
-                    for(int i=1; i<MAXDEPTH; i++){
-                        if(dp[current][i] == 0)break; // 루트 노드를 넘어가면 끝 .
-                        dp[next][i] = dp[current][i-1];
-                        current = dp[current][i-1];
-                    }
                 }
             }
         }
