@@ -62,7 +62,7 @@
 
 > [BOJ 11438 - LCA 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` `Tree` `Sparse Array`  
 
-
+> [BOJ 1761 - 정점들의 거리](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` `Tree`   
 ## 💌 참고 자료
 
 
