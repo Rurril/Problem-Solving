@@ -31,7 +31,12 @@
 > [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 
 > [BOJ 7579 - 앱](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N7579.md) : `DP` `Knapsack`
+
+> [BOJ 14003 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N14003.md) : `DP` `Binary Search` `LIS` 
+> 
 ## 이진 탐색(Binary Search)
+> [BOJ 2568 - 가장 긴 증가하는 부분 수열 5](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
+
 ## 투 포인터(Two Pointers)
 > [BOJ 2467 - 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2467.md) : `Two Pointers` `Binary Search` 
 
