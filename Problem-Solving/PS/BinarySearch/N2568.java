@@ -64,6 +64,7 @@ public class N2568 {
             checked[cur] = true;
             cur = preIndex[cur];
         }
+
         for (int i = 0; i < N; i++) {
             if (!checked[i])
                 bw.write(list[i].start + "\n");
