@@ -13,6 +13,8 @@
 
 > [BOJ 14890 - 경사로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N14890.md) : `Simulation`
 
+> [BOJ 12100 - 2048(Easy)](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N12100.md) : `Simulation` `BF` `DFS` `Queue`
+
 ## BFS, DFS
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
 
