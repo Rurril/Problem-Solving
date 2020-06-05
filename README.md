@@ -22,6 +22,8 @@
 
 > [BOJ 1005 - ACM Craft](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N1005.md) : `Topological Sort` `DP`
 
+> [BOJ 2623 - 음악 프로그램](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2623.md) : `Topological Sort` `DP`
+
 ## 완전 탐색(Brute Force)
 
 ## 퇴각 검색(Back Tracking)
