@@ -37,7 +37,9 @@
 > [BOJ 7579 - 앱](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N7579.md) : `DP` `Knapsack`
 
 > [BOJ 14003 - 가장 긴 증가하는 부분 수열 5](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N14003.md) : `DP` `Binary Search` `LIS` 
-> 
+
+> [BOJ 10942 - 팰린드롬 ?](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N10942.md) : `DP`  
+
 ## 이진 탐색(Binary Search)
 > [BOJ 2568 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
 
