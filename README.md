@@ -19,6 +19,9 @@
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
 
 > [BOJ 9466 - 텀 프로젝트](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `DFS` 
+
+> [BOJ 9328 - 열쇠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `BFS` `Simulation` `Bit Masking`
+
 ## 정렬(Sort Algorithm)
 > [BOJ 2056 - 작업](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2056.md) : `Topological Sort` `DP`
 
@@ -56,9 +59,19 @@
 >  [BOJ 1504 - 특정한 최단 경로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N1504.md)  :`SP` `Dijkstra` 
 
 >  [BOJ 14938 - 서강그라운드](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N14938.md) : `SP` `Floyd-Warshall` 
+
 ## 문자열 처리
+
 ## 수학
+
 ## 분할 정복(Divide and Conquer)
+
+>  [BOJ 6549 - 히스토그램에서 가장 큰 직사각형](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N6549.md) : `Divde and Conquer` `Segment Tree` `Data Structure` 
+
+>  [BOJ 1725 - 히스토그램](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N1725.md) : `Divde and Conquer` `Segment Tree` `Data Structure` 
+
+>> 이건 다시 스택으로도 한 번 풀어보자.
+
 ## 비트 마스킹(Bit Masking)
 ## 자료 구조(Data Structure)
 ## 최소 신장 트리(Minimum Spanning Tree)
@@ -67,6 +80,8 @@
 > [BOJ 2042 - 구간 합 구하기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2042.md) : `Segment Tree` `Data Structure`
 
 > [BOJ 2357 - 최솟값과 최댓값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2357.md) : `Segment Tree` `Data Structure`
+
+> [BOJ 10868 - 최솟값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10868.md) : `Segment Tree` `Data Structure`
 
 ## 최소 공통 조상(Lowest Common Ancestor)
 > [BOJ 11437 - LCA](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` 
