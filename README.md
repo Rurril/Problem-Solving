@@ -43,6 +43,8 @@
 
 > [BOJ 10942 - 팰린드롬 ?](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N10942.md) : `DP`  
 
+> [SWEA 9708 - 가장 긴 수열](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/SW9708.md) : `DP` `Longest Subsequence` 
+
 ## 이진 탐색(Binary Search)
 > [BOJ 2568 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
 
@@ -75,6 +77,8 @@
 ## 비트 마스킹(Bit Masking)
 
 > [BOJ 1562 - 계단수](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N1562.md) : `Bit Masking` `DP`  
+
+> [BOJ 1102 - 발전소](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N1102.md) : `Bit Masking` `DP`  
 
 ## 자료 구조(Data Structure)
 ## 최소 신장 트리(Minimum Spanning Tree)
