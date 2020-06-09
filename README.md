@@ -15,6 +15,12 @@
 
 > [BOJ 12100 - 2048(Easy)](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N12100.md) : `Simulation` `BF` `DFS` `Queue`
 
+> [Programmers - (L4) 무지의 먹방 라이브](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/PmuziMukbang.md) : `Simulation` 
+
+
+## 수학
+
+
 ## BFS, DFS
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
 
@@ -54,7 +60,16 @@
 > [BOJ 2473 - 세 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2473.md) : `Two Pointers` `Binary Search` 
 
 > [BOJ 1806 - 부분합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N1806.md) : `Two Pointers` `Prefix Sum` `Binary Search` 
+
+
 ## 탐욕법(Greedy Algorithm)
+
+
+## 에라토스테네스의 체(Eratosthenes sieve)
+
+> [BOJ 1644 - 소수의 연속합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Eratosthenes/N1644.md) : `Eratosthenes sieve` `Prefix Sum` `Two Pointers` `Mathematics`
+
+
 ## 최단 경로 문제(Shortest Path)
 >  [BOJ 11779 -최소비용 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N11779.md)  : `SP` `Dijkstra` `graph`
 
@@ -64,7 +79,6 @@
 
 ## 문자열 처리
 
-## 수학
 
 ## 분할 정복(Divide and Conquer)
 
