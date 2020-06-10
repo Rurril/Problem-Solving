@@ -40,6 +40,8 @@
 ## 퇴각 검색(Back Tracking)
 > [BOJ 2239 - 스도쿠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N2239.md) : `Back Tracking` 
 
+> [BOJ 15684 - 사다리 조작](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N15684.md) : `Back Tracking` `BF` `Simulation`
+
 ## 동적 계획법(Dynamic Programming)
 > [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 
