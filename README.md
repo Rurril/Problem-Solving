@@ -53,6 +53,8 @@
 
 > [SWEA 9708 - 가장 긴 수열](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/SW9708.md) : `DP` `Longest Subsequence` 
 
+> [BOJ 12489 - 본대 산책](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12489.md) : `DP`
+
 ## 이진 탐색(Binary Search)
 > [BOJ 2568 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
 
