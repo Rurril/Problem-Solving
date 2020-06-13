@@ -107,6 +107,8 @@
 
 > [BOJ 1922 - 네트워크 연결](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/MST/N1197.md) : `MST` `Kruskal`
 
+> [BOJ 6497 - 전력난](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/MST/N6497.md) : `MST` `Kruskal`
+
 ## 세그먼트 트리(Segment Tree)
 > [BOJ 2042 - 구간 합 구하기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N2042.md) : `Segment Tree` `Data Structure`
 
