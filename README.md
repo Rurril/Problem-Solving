@@ -1,7 +1,7 @@
 
 # Problem-Solving
 
-> PS repository : BOJ , SWEA, Programmers
+> PS repository : [BOJ](https://www.acmicpc.net/) , [SWEA](https://swexpertacademy.com/main/main.do), [Programmers](https://programmers.co.kr/learn/challenges)
 
 ---
 ## 🤭 목차
@@ -99,6 +99,10 @@
 > [BOJ 1102 - 발전소](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N1102.md) : `Bit Masking` `DP`  
 
 ## 자료 구조(Data Structure)
+
+## 희소 행렬(Sparse Table)
+
+> [BOJ 17435 - 합성함수와 쿼리](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SparseTable/N17435.md) : `Sparse Table` `Data Structure`
 
 
 ## 최소 신장 트리(Minimum Spanning Tree)
