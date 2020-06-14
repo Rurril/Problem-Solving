@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PPmuziMukbang {
+public class PmuziMukbang {
 
     public static void main(String[] args) {
         int[] food_times = {30, 30, 30, 31 };
