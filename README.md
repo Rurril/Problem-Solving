@@ -68,6 +68,7 @@
 
 ## 탐욕법(Greedy Algorithm)
 
+> [BOJ 1202 - 보석 도둑](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1202.md) : `Greedy Algorithm` `Heap` 
 
 ## 에라토스테네스의 체(Eratosthenes sieve)
 
