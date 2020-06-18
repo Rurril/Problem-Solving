@@ -22,18 +22,24 @@
 
 
 ## BFS, DFS
+
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
 
 > [BOJ 9466 - 텀 프로젝트](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `DFS` 
 
 > [BOJ 9328 - 열쇠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `BFS` `Simulation` `Bit Masking`
 
+
+
 ## 정렬(Sort Algorithm)
+
 > [BOJ 2056 - 작업](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2056.md) : `Topological Sort` `DP`
 
 > [BOJ 1005 - ACM Craft](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N1005.md) : `Topological Sort` `DP`
 
 > [BOJ 2623 - 음악 프로그램](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2623.md) : `Topological Sort` `DP`
+
+> [BOJ 1516 - 게임 개발](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N1516.md) : `Topological Sort` `DP` `Heap`
 
 ## 완전 탐색(Brute Force)
 
