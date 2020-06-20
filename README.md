@@ -111,6 +111,10 @@
 
 ## 자료 구조(Data Structure)
 
+## 분리 집합(Disjoint set : Union-Find)
+
+> [BOJ 4195 - 친구 네트워크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N4195.md) : `Disjoint set` `Data Structure` `HashMap` 
+
 ## 희소 행렬(Sparse Table)
 
 > [BOJ 17435 - 합성함수와 쿼리](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SparseTable/N17435.md) : `Sparse Table` `Data Structure`
