@@ -1,5 +1,4 @@
-package PS;
-import kotlin.PreconditionsKt;
+
 
 import java.io.*;
 import java.util.ArrayList;
@@ -42,7 +41,7 @@ public class N2150 {
             int end = Integer.parseInt(temp[1]);
 
             con[start].add(end);
-            con[end].add(start);
+            revcon[end].add(start);
         }
 
         st = new Stack<Integer>();

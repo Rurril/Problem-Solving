@@ -145,6 +145,11 @@
 
 > [BOJ 3176 - 도로 네트워크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N3176.md) : `LCA` `Tree`
 
+## 강한 연결 요소(Strongly Connected Component)
+
+> [BOJ 2150 - Strongly Connected Component](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SCC/N2150.md) : `SCC` `Graph`
+
+
 ## 💌 참고 자료
 
 
