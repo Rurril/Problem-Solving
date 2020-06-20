@@ -48,6 +48,8 @@
 
 > [BOJ 15684 - 사다리 조작](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N15684.md) : `Back Tracking` `BF` `Simulation`
 
+> [BOJ 1799 - 비숍](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N1799.md) : `Back Tracking` `BF`
+
 ## 동적 계획법(Dynamic Programming)
 > [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 
