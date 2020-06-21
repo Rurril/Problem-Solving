@@ -20,6 +20,7 @@
 
 ## 수학
 
+> [Atcoder : ABC 171 - RedScarf](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Math/RedScarf.md) : `Math` `Operator`
 
 ## BFS, DFS
 
