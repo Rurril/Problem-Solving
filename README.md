@@ -114,7 +114,9 @@
 
 ## 분리 집합(Disjoint set : Union-Find)
 
-> [BOJ 4195 - 친구 네트워크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N4195.md) : `Disjoint set` `Data Structure` `HashMap` 
+> [BOJ 4195 - 친구 네트워크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DisjointSet/N4195.md) : `Disjoint set` `Data Structure` `HashMap` 
+
+> [BOJ 3780 - 네트워크 연결](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DisjointSet/N4195.md) : `Disjoint set` 
 
 ## 희소 행렬(Sparse Table)
 
