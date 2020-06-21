@@ -149,6 +149,7 @@
 
 > [BOJ 2150 - Strongly Connected Component](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SCC/N2150.md) : `SCC` `Graph`
 
+> [BOJ 4196 - 도미노](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SCC/N2150.md) : `SCC` `Graph`
 
 ## 💌 참고 자료
 
