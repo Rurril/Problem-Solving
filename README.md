@@ -1,7 +1,7 @@
 
 # Problem-Solving
 
-> PS repository : [BOJ](https://www.acmicpc.net/) , [SWEA](https://swexpertacademy.com/main/main.do), [Programmers](https://programmers.co.kr/learn/challenges)
+> PS repository : [BOJ](https://www.acmicpc.net/user/jine2669) , [SWEA](https://swexpertacademy.com/main/main.do), [Programmers](https://programmers.co.kr/learn/challenges), [Atcoder](https://atcoder.jp/users/Rurril)
 
 ---
 ## 🤭 목차
