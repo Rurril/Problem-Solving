@@ -139,7 +139,7 @@
 
 > [BOJ 10868 - 최솟값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10868.md) : `Segment Tree` `Data Structure`
 
-> [BOJ 10999 - 구간 합 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10868.md) : `Segment Tree` `Lazy Propagation` `Data Structure`
+> [BOJ 10999 - 구간 합 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10999.md) : `Segment Tree` `Lazy Propagation` `Data Structure`
 
 ## 최소 공통 조상(Lowest Common Ancestor)
 > [BOJ 11437 - LCA](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` 
