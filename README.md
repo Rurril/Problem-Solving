@@ -107,6 +107,9 @@
 
 >  [BOJ 1725 - 히스토그램](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N1725.md) : `Divde and Conquer` `Segment Tree` `Data Structure` 
 
+>  [BOJ 12850 - 본대 산책 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N1725.md) : `Divde and Conquer` `Exponentiation by squaring`
+
+
 >> 이건 다시 스택으로도 한 번 풀어보자.
 
 ## 비트 마스킹(Bit Masking)
