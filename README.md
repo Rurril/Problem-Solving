@@ -32,7 +32,7 @@
 
 
 
-## 정렬(Sort Algorithm)
+## 정렬(Sorting Algorithm)
 
 > [BOJ 2056 - 작업](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2056.md) : `Topological Sort` `DP`
 
@@ -118,7 +118,11 @@
 
 > [BOJ 1102 - 발전소](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N1102.md) : `Bit Masking` `DP`  
 
+
 ## 자료 구조(Data Structure)
+
+> [BOJ 13334 - 철로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N13334.md) : `Data Structure` `Priority Queue` `Sorting`  
+ 
 
 ## 분리 집합(Disjoint set : Union-Find)
 
