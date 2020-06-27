@@ -7,7 +7,7 @@
 ## 🤭 목차
 ---
 
-## 구현(Simulation)
+## 구현 & 시뮬레이션(Implementation & Simulation)
 
 > [BOJ 13460 - 구슬 탈출 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N13460.md) : `Simulation` `BFS` `Brute Force` 
 
@@ -16,6 +16,8 @@
 > [BOJ 12100 - 2048(Easy)](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N12100.md) : `Simulation` `BF` `DFS` `Queue`
 
 > [Programmers - (L4) 무지의 먹방 라이브](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/PmuziMukbang.md) : `Simulation` 
+
+> [BOJ 1748 - 수 이어 쓰기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1748.java) : `Implementation` `BF` 
 
 
 ## 수학
