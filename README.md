@@ -19,6 +19,8 @@
 
 > [BOJ 1748 - 수 이어 쓰기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1748.java) : `Implementation` `BF` 
 
+> [BOJ 1063 - 킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1063.java) : `Simulation` `Implementation`
+
 
 ## 수학
 
