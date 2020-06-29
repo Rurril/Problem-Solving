@@ -119,7 +119,7 @@
 
 >> 이건 다시 스택으로도 한 번 풀어보자.
 
->  [BOJ 12850 - 본대 산책 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N1725.md) : `Divde and Conquer` `Exponentiation by squaring`
+>  [BOJ 12850 - 본대 산책 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N12850.md) : `Divde and Conquer` `Exponentiation by squaring`
 
 >  [BOJ 11444 - 피보나치 수 6](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N11444.md) : `Divde and Conquer` `Exponentiation by squaring` `Math`
 
