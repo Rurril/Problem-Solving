@@ -76,8 +76,10 @@
 
 
 ## 이진 탐색(Binary Search)
+
 > [BOJ 2568 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
 
+> [BOJ 2143 - 두 배열의 합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2143.md) : `Binary Search` `Prefix Sum`
 
 
 ## 투 포인터(Two Pointers)
