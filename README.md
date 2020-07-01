@@ -36,6 +36,8 @@
 
 > [BOJ 9328 - 열쇠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N9466.md) : `BFS` `Simulation` `Bit Masking`
 
+> [BOJ 16562 - 친구비](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N16562.md) : `BFS` `Disjoint Set` 
+
 
 
 ## 정렬(Sorting Algorithm)
