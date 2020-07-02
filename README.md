@@ -38,6 +38,7 @@
 
 > [BOJ 16562 - 친구비](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N16562.md) : `BFS` `Disjoint Set` 
 
+> [BOJ 16724 - 피리 부는 사나이](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N16724.md) : `BFS`
 
 
 ## 정렬(Sorting Algorithm)
