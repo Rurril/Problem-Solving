@@ -135,10 +135,18 @@
 > [BOJ 1102 - 발전소](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Bitmasking/N1102.md) : `Bit Masking` `DP`  
 
 
+
 ## 자료 구조(Data Structure)
 
 > [BOJ 13334 - 철로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N13334.md) : `Data Structure` `Priority Queue` `Sorting`  
  
+
+
+## 트라이(Trie)
+
+> [BOJ 4358 - 생태학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N13334.md) : `Trie ``Data Structure` `String` 
+
+
 
 ## 분리 집합(Disjoint set : Union-Find)
 
