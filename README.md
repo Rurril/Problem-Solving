@@ -95,6 +95,11 @@
 > [Atcoder : ABC 172 - Tsundoku](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/ABC172_C.md) : `Two Pointers` `Prefix Sum`
 
 
+## 슬라이딩 윈도우(Silding Window)
+
+> [BOJ 11003 - 최솟값 찾기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SlidingWindow/N11003.md) : `Sliding Window` `Deque`
+
+
 ## 탐욕법(Greedy Algorithm)
 
 > [BOJ 1202 - 보석 도둑](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1202.md) : `Greedy Algorithm` `Heap` 
@@ -176,6 +181,8 @@
 > [BOJ 10868 - 최솟값](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10868.md) : `Segment Tree` `Data Structure`
 
 > [BOJ 10999 - 구간 합 구하기 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N10999.md) : `Segment Tree` `Lazy Propagation` `Data Structure`
+
+> [BOJ 11505 - 구간 곱 구하기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SegmentTree/N11505.java) : `Segment Tree` 
 
 ## 최소 공통 조상(Lowest Common Ancestor)
 > [BOJ 11437 - LCA](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/LCA/N11437.md) : `LCA` 
