@@ -149,7 +149,9 @@
 
 ## 트라이(Trie)
 
-> [BOJ 4358 - 생태학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N13334.md) : `Trie ``Data Structure` `String` 
+> [BOJ 4358 - 생태학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N4358.md) : `Trie` `Data Structure` `String`
+
+> [BOJ 5670 - 휴대폰 자판](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N5670.md) : `Trie` `Data Structure` `String`
 
 
 
