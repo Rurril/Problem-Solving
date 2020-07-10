@@ -40,6 +40,9 @@
 
 > [BOJ 16724 - 피리 부는 사나이](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N16724.md) : `BFS`
 
+> [BOJ 1795 - 정상 회담](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
+
+
 
 ## 정렬(Sorting Algorithm)
 
@@ -152,6 +155,8 @@
 > [BOJ 4358 - 생태학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N4358.md) : `Trie` `Data Structure` `String`
 
 > [BOJ 5670 - 휴대폰 자판](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N5670.md) : `Trie` `Data Structure` `String`
+
+> [BOJ 9202 - Boggle](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N5670.md) : `Trie` `Back Tracking` `DFS`
 
 
 
