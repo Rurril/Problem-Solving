@@ -158,6 +158,9 @@
 
 > [BOJ 9202 - Boggle](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N5670.md) : `Trie` `Back Tracking` `DFS`
 
+> [BOJ 5446 - 용량 부족](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Trie/N5670.md) : `Trie` 
+
+
 
 
 ## 분리 집합(Disjoint set : Union-Find)
