@@ -42,6 +42,7 @@
 
 > [BOJ 1795 - 정상 회담](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
 
+> [BOJ 2146 - 다리 만들기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
 
 
 ## 정렬(Sorting Algorithm)
