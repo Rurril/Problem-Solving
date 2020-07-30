@@ -82,6 +82,7 @@
 
 > [BOJ 2533 - 사회망 서비스(SNS)](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N2533.md) : `DP` `Tree`
 
+> [BOJ 14728 - 벼락치기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N14728.md) : `DP` `Knapsack`
 
 ## 이진 탐색(Binary Search)
 
