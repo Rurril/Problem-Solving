@@ -56,6 +56,8 @@
 
 > [BOJ 1516 - 게임 개발](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N1516.md) : `Topological Sort` `DP` `Heap`
 
+> [BOJ 2947 - 나무 조각](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Sort/N2947.java) : `Bubble Sort`
+
 ## 완전 탐색(Brute Force)
 
 ## 퇴각 검색(Back Tracking)
