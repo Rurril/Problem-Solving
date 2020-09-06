@@ -67,6 +67,8 @@
 
 > [BOJ 1799 - 비숍](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N1799.md) : `Back Tracking` `BF`
 
+> [BOJ 1713 - 미친 로봇](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N1713.md) : `Back Tracking` `DFS` `BF`
+
 ## 동적 계획법(Dynamic Programming)
 > [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 
