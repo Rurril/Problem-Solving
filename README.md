@@ -45,6 +45,8 @@
 
 > [BOJ 2146 - 다리 만들기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
 
+> [BOJ 1600 - 말이 되고픈 원숭이](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
+
 
 ## 정렬(Sorting Algorithm)
 
@@ -60,7 +62,9 @@
 
 ## 완전 탐색(Brute Force)
 
+
 ## 퇴각 검색(Back Tracking)
+
 > [BOJ 2239 - 스도쿠](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N2239.md) : `Back Tracking` 
 
 > [BOJ 15684 - 사다리 조작](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N15684.md) : `Back Tracking` `BF` `Simulation`
@@ -69,7 +73,9 @@
 
 > [BOJ 1713 - 미친 로봇](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N1713.md) : `Back Tracking` `DFS` `BF`
 
+
 ## 동적 계획법(Dynamic Programming)
+
 > [BOJ 9252 - LCS 2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N9252.md) : `DP` `LCS`
 
 > [BOJ 7579 - 앱](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N7579.md) : `DP` `Knapsack`
