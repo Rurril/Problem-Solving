@@ -73,6 +73,7 @@
 
 > [BOJ 1713 - 미친 로봇](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N1713.md) : `Back Tracking` `DFS` `BF`
 
+> [BOJ 2023 - 신기한 소수](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BackTracking/N2023.md) : `Back Tracking` `DFS` `Math`
 
 ## 동적 계획법(Dynamic Programming)
 
