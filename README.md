@@ -47,6 +47,7 @@
 
 > [BOJ 1600 - 말이 되고픈 원숭이](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Implementation`
 
+> [BOJ 2234 - 성곽](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1795.md) : `BFS` `Bit Masking` `Implementation`
 
 ## 정렬(Sorting Algorithm)
 
