@@ -31,6 +31,8 @@
 
 > [Atcoder : ABC 172 - Sum of Divisors](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Math/RedScarf.md) : `Math` `Divisor`
 
+> [BOJ 1256 - 사전](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Math/N1325.md) : `Math` `DP` `Combination`
+
 ## BFS, DFS
 
 > [BOJ 1325 - 까다로운 해킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BFS_DFS/N1325.md) : `DFS` `BFS`
