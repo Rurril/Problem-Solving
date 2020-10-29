@@ -21,7 +21,7 @@
 
 > [BOJ 1063 - 킹](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1063.java) : `Simulation` `Implementation`
 
-> [BOJ 1089 - 엘리베이터](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1089.java) : `Implementation` `Parsing`
+> [BOJ 1089 - 엘리베이터](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N1089.java) : `Implementation` `Parsing`
 
 > [BOJ 17135 - 캐슬 디펜스](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N17135.java) : `Simulation` `BFS` `BF`
 
