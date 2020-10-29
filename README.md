@@ -104,6 +104,10 @@
 
 > [BOJ 7570 - 줄 세우기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N7570.md) : `DP` `LIS` `Greedy Algorithm` 
 
+> [BOJ 12869 - 뮤탈리스크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12869.java) : `DP` `BFS`
+
+
+
 ## 이진 탐색(Binary Search)
 
 > [BOJ 2568 - 전기줄 -2](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2568.md) : `Binary Search` `LIS` `DP`
