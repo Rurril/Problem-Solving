@@ -106,7 +106,9 @@
 
 > [BOJ 12869 - 뮤탈리스크](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12869.java) : `DP` `BFS`
 
-> [BOJ 5582 - 공통 부분 문자열](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12869.java) : `DP` `LCS`
+> [BOJ 5582 - 공통 부분 문자열](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12869.java) : `DP` `LCS` `String`
+
+> [BOJ 1958 - LCS 3](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DP/N12869.java) : `DP` `LCS` `String`
 
 
 ## 이진 탐색(Binary Search)
