@@ -25,6 +25,13 @@
 
 > [BOJ 17135 - 캐슬 디펜스](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Simulation/N17135.java) : `Simulation` `BFS` `BF`
 
+
+## 구현 & 시뮬레이션(Implementation & Simulation)
+
+> [BOJ 1747 - 소수&펠린드롬](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N1747.md) : `String` `Math` `BF`
+
+
+
 ## 수학
 
 > [Atcoder : ABC 171 - RedScarf](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Math/RedScarf.md) : `Math` `Operator`
@@ -176,6 +183,7 @@
 
 > [BOJ 13334 - 철로](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N13334.md) : `Data Structure` `Priority Queue` `Sorting`  
  
+> [BOJ 14675 - 단절점과 단절선](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DataStructure/N14675.md) : `Data Structure` `Tree` 
 
 
 ## 트라이(Trie)
