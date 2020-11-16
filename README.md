@@ -146,6 +146,9 @@
 
 > [BOJ 1202 - 보석 도둑](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1202.md) : `Greedy Algorithm` `Heap` 
 
+> [BOJ 1339 - 단어 수학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1339.java) : `Greedy Algorithm` `Hashing` 
+
+
 ## 에라토스테네스의 체(Eratosthenes sieve)
 
 > [BOJ 1644 - 소수의 연속합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Eratosthenes/N1644.md) : `Eratosthenes sieve` `Prefix Sum` `Two Pointers` `Mathematics`
