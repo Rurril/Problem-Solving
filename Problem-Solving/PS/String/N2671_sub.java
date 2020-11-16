@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.regex.Pattern;
-public class Main {
+public class N2671_sub {
 
 
     public static void main(String[] args) throws IOException {
