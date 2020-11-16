@@ -124,6 +124,8 @@
 
 > [BOJ 2143 - 두 배열의 합](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2143.md) : `Binary Search` `Prefix Sum`
 
+> [BOJ 1939 - 중량 제한](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/BinarySearch/N2143.md) : `Binary Search` 'BFS' `Graph`
+
 
 ## 투 포인터(Two Pointers)
 > [BOJ 2467 - 용액](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/TwoPointers/N2467.md) : `Two Pointers` `Binary Search` 
@@ -156,8 +158,9 @@
 
 >  [BOJ 14938 - 서강그라운드](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/ShortestPath/N14938.md) : `SP` `Floyd-Warshall` 
 
-## 문자열 처리
+## 문자열 처리(String)
 
+>  [BOJ 2671 - 잠수함 식별](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N14938.md) : `String` `Regex` 
 
 ## 분할 정복(Divide and Conquer)
 
