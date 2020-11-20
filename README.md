@@ -148,6 +148,8 @@
 
 > [BOJ 1339 - 단어 수학](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1339.java) : `Greedy Algorithm` `Hashing` 
 
+> [BOJ 1092 - 배](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/Greedy/N1092.java) : `Greedy Algorithm` `Sorting` 
+
 
 ## 에라토스테네스의 체(Eratosthenes sieve)
 
