@@ -169,6 +169,8 @@
 
 >  [BOJ 16916 - 부분 문자열](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N16916.md) : `String` `KMP` `Rabin-Karp`
 
+>  [BOJ 1701 - Cubeditor](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N1701.md) : `String` `KMP` `Rabin-Karp`
+
 ## 분할 정복(Divide and Conquer)
 
 >  [BOJ 6549 - 히스토그램에서 가장 큰 직사각형](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/DivideAndConquer/N6549.md) : `Divde and Conquer` `Segment Tree` `Data Structure` 
