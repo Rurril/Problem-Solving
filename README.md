@@ -32,6 +32,7 @@
 
 > [카카오 - 키패드 누르기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/K2020_1.md) : `String` `Implementation` `BF`
 
+> [카카오 - 수식 최대화](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/K2020_1.md) : `String` `Implementation` `BF`
 
 ## 수학
 
