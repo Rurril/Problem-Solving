@@ -30,6 +30,7 @@
 
 > [BOJ 1747 - 소수&펠린드롬](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N1747.md) : `String` `Math` `BF`
 
+> [카카오 - 키패드 누르기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/K2020_1.md) : `String` `Implementation` `BF`
 
 
 ## 수학
