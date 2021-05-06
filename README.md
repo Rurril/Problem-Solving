@@ -28,7 +28,7 @@
 
 ## 구현 & 시뮬레이션(Implementation & Simulation)
 
-> [BOJ 1747 - 소수&펠린드롬](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N1747.md) : `String` `Math` `BF`
+> [BOJ 1747 - 소수&펠린드롬](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/N1747.md) : `String` `Math` `BF` 
 
 > [카카오 - 키패드 누르기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/String/K2020_1.md) : `String` `Implementation` `BF`
 
@@ -143,6 +143,7 @@
 
 > [BOJ 11003 - 최솟값 찾기](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SlidingWindow/N11003.md) : `Sliding Window` `Deque`
 
+> [카카오 - 보석 쇼핑](https://github.com/Rurril/Problem-Solving/blob/Test/Problem-Solving/PS/SlidingWindow/K2020_3_2.java) : `Sliding Window` `Map` `Set` `Implementation`
 
 ## 탐욕법(Greedy Algorithm)
 
